@@ -12,7 +12,7 @@
 
 .phone-content-section {
   position: sticky;
-  top: 101px;
+  top: 100px;
   display: flex;
   height: 100vh;
 }
